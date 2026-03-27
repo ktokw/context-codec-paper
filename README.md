@@ -1,6 +1,6 @@
 # Context Codec: Rate-Distortion Optimization for Persistent LLM State
 
-**Author**: Tae-Seon Oh
+**Author**: Tae-Seon Oh · [ORCID: 0009-0003-7781-9129](https://orcid.org/0009-0003-7781-9129)
 **DOI**: [10.5281/zenodo.19250206](https://doi.org/10.5281/zenodo.19250206)
 
 ---
@@ -39,6 +39,7 @@ figures/
 @misc{oh2026contextcodec,
   title   = {Context Codec: Rate-Distortion Optimization for Persistent {LLM} State},
   author  = {Oh, Tae-Seon},
+  orcid   = {0009-0003-7781-9129},
   year    = {2026},
   doi     = {10.5281/zenodo.19250206},
   url     = {https://doi.org/10.5281/zenodo.19250206}
